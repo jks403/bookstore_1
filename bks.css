@@ -1,0 +1,49 @@
+  /*  adapted from:
+http://srv13.fountainheadcollege.com/mustafa.eminoglu/ws201/registration.html
+JOshua Stewart
+Last modified march 3rd 2017
+*/
+
+
+h1
+{background-color: rgba(0, 255, 0, 0.3);}
+
+
+body 
+{
+    margin-left:10em;
+    margin-right:10em;
+    font-size: 1em;
+}
+
+fieldset
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100em;
+    background-color: #ffecca;
+    padding-top: 1.0em;
+}
+
+
+p {
+  
+    color: rgb(0,0,255);
+
+    text-align: left;
+}
+
+img
+{
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black 5px;
+}
+
+
+
+
+
+
+
